@@ -4,6 +4,8 @@ For this challenge I decided to spread Christmas cheer by creating a website tha
 
 ![Christmas Heist](action.png)
 
+**Huge Note:** Because I am using very state of the art live renders some film distortions on phones and low-end machines will break or not work. Try another one. Notwithstanding, based on my extensive testing most computers can run the website from GitHub Pages effortlessly. Very modern phones can also handle it relatively well along with a good number of tablets. For the really brave rig a HDMI set up in a store or house and play the animations. Your event or store will be lit. 🔥
+
 ## Behind the Scenes
 The mechanism of the project innovates on the concept of a pre-screening and start of a movie. Using keyframing and Javascript the movie display on the first scene is the studio that is making the movie. The names encompass both actual and fictional studios. The second scene displays the executive producer of the work. The third scene is the most exciting of all.
 

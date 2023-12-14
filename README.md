@@ -5,7 +5,7 @@ For this challenge I decided to spread Christmas cheer by creating a website tha
 ![Christmas Heist](action.png)
 
 ## Behind the Scenes
-The mechanism of the project innovates on the concept of a pre-screening and start of a movie. Using keyframing and Javascript the movie display on the first scene the studios that is making the movie. The names encompass both actual and fictional studios. The second scene displays the executive producer of the work. The third scene is the most exciting of all.
+The mechanism of the project innovates on the concept of a pre-screening and start of a movie. Using keyframing and Javascript the movie display on the first scene is the studio that is making the movie. The names encompass both actual and fictional studios. The second scene displays the executive producer of the work. The third scene is the most exciting of all.
 
 It displays the tag for the movie and beneath it the movie name. Beneath the movie name is the credits for the movie. The film image is an image that matches the movie name. Moreover, the image pulsates in different ways based on the genre and the vibe being aimed for. At the top left is a list of numbers from 1 to 8 which when clicked navigate among the 8 movies that I pioneered. At the middle is a sound icon that allows the music to be paused and played. Pausing causes the vibrations and pulsations to stop.
 
@@ -19,3 +19,7 @@ The project can be executed locally on localhost and projected to a television o
 For those who like more energetic and action film concepts navigate towards the end of the 8 film concepts. Here is an example of what to expect:
 
 ![Spiderman: Lagos is Home](thriller.png)
+
+For those who desire a more calming and homely vibe the first ones are just your cup of tea:
+
+![Tokyo Christmas](family.png)
